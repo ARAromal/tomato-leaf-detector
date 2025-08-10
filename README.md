@@ -29,7 +29,7 @@ Follow these steps to get the project running on your local machine.
 **1. Clone the Repository**
 ```bash
 git clone [https://github.com/ARAromal/tomato-leaf-detector.git](https://github.com/ARAromal/tomato-leaf-detector.git)
-cd tomato-leaf-detector
+cd tomato-leaf-detector```
 
 2. Download the Dataset (Important)
 This repository does not include the dataset due to its large size.
