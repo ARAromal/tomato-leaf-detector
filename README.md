@@ -16,6 +16,7 @@ A web application built using Flask and TensorFlow to classify 10 different type
 ## Technology Stack
 
 -   **Backend:** Python, Flask
+-   **Frontend:** HTML5, CSS3, Bootstrap 5
 -   **Deep Learning:** TensorFlow, Keras
 -   **Image Processing:** OpenCV-Python
 -   **Core Libraries:** NumPy, Matplotlib
