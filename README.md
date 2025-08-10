@@ -37,8 +37,7 @@ cd tomato-leaf-detector
 
 This repository does not include the dataset due to its large size.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13bec429-4e0d-4cad-afb6-618b8fa1a82c" />
-
+- Download the dataset from **[this Kaggle link](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)**.
 
 Unzip the file. You should have a tomato folder that contains another tomato folder inside it. Place this top-level tomato folder inside your project directory.
 
