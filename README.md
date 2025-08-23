@@ -71,6 +71,3 @@ Open your web browser and navigate to the following address:
 ```bash
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 ```
-```bash
-After you commit this change, your `README.md` will look complete and professional. ✅
-```
